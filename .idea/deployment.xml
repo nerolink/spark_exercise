@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="master-minicluster">
+    <serverData>
+      <paths name="master-minicluster">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/python_projects/spark_exercise" local="$PROJECT_DIR$" web="/home/nerolink/python_project/spark_exercise" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

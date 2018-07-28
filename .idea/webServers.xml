@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="17d9b4b9-1f37-4aea-96b5-17a9dae9fd00" name="master-minicluster" url="http://222.201.145.132">
+        <fileTransfer host="222.201.145.132" port="22" rootFolder="/home/nerolink" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
